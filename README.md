@@ -9,6 +9,8 @@ KJCode 7월 발표자료
 
 |단체사진|
 |---|
-|![단체사진](https://github.com/Noodlekim/20170701_kjcode/blob/master/Photos/3.JPG?raw=true)|
+|![단체사진](https://github.com/Noodlekim/20170701_kjcode/blob/master/Photos/7.png?raw=true)|
 
-## 내용
+## 발표내용
+
+스케치 소개와 간단 실습 + 제플린 연동
